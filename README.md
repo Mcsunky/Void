@@ -1,0 +1,2 @@
+# Void
+All is null
